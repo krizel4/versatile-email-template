@@ -10,5 +10,12 @@ This table contains mobile responsive alternating tables. Because e-mail clients
 ## Email HTML
 If you're a web developer not familiar with email HTML, prepare for heartbreak and traveling back in "coding" time. E-mail clients have different preprocessing engines, and you unfortunately have to surrender to coding practices that go against the typical clean code you see in modern web development. To ensure your e-mail is as faithful as possible to the designer's layout, there's inline styling, CSS selectors, an excessive use of !important, conditional MSO statements and some legacy code. Outlook is perhaps one of the most challenging e-mail clients to code for, because it still processes the code through Word.
 
+## Resources
+Here are a few resources I've referred to over the years to build this template.
+* *Divs and Ghosts Tables*: <https://webdesign.tutsplus.com/tutorials/html-email-using-ghost-tables--cms-32551>
+* *Mobile Responsive Email Stacking*: <https://www.litmus.com/blog/mobile-responsive-email-stacking>
+* *Bullet Proof Email Buttons*: <https://www.litmus.com/blog/a-guide-to-bulletproof-buttons-in-email-design>
+
 ## Future Development
 Dark mode design.
+
