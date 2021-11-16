@@ -1,5 +1,5 @@
 # Versatile Email Template
-This table contains mobile responsive alternating tables. Because e-mail clients haven't found a way to agree with each other, this is as "versatile" as it gets. A lot of the bells and whistles that modern web offers, like accordians, carousels, and video embeds, can be done in some e-mail clients. Unfortunately, not every e-mail client displays these features properly. So this "versatile" layout is also friendly with Outlook, Gmail, Yahoo, Apple Mail, and more.
+This table contains mobile responsive alternating tables and optional rounded buttons. Because e-mail clients haven't found a way to agree with each other, this is as "versatile" as I've gotten with design. A lot of the bells and whistles that modern web offers, like accordians, carousels, and video embeds, can only be done in *some* e-mail clients. Unfortunately, not every e-mail client displays these features properly. Thus, this "versatile" layout is created to viewer-friendly in Outlook, Gmail, Yahoo, Apple Mail, and more.
 
 ## About the Code:
 * Responsive
@@ -17,5 +17,6 @@ Here are a few resources I've referred to over the years to build this template.
 * *Bullet Proof Email Buttons*: <https://www.litmus.com/blog/a-guide-to-bulletproof-buttons-in-email-design>
 
 ## Future Development
-Dark mode design.
+* Dark mode design.
+* Code clean-up. This is a working design, so some tables/rows/cells have some desperate looking inline styling added to it to force visuals. Some of the code may not be necessary, so this will need to be cleaned in the future to reduce the file size.
 
